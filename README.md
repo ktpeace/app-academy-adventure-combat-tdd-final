@@ -2,6 +2,6 @@
 
 Final version/third challege in App Academy adventure game project
 
-!!! Make sure to run npm install to install dependencies !!!
+!!! Make sure to run npm install in starter/ folder to install dependencies !!!
 
-Run game in starter/ folder with node game.js
+Run game with node game.js
